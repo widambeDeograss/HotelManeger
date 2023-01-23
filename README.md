@@ -16,9 +16,7 @@
 
 
 ## About
-
 <table><tr><td>
-An information gathering platform that collects open source information from different sources on Internet and provide analyzed and meaningful query results.
 
 <details>
 <summary>Screenshots</summary>
